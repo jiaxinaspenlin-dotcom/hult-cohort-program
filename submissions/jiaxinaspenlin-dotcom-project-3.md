@@ -23,7 +23,7 @@ https://signal-atlas-omega.vercel.app/api/v1
 4. https://signal-atlas-omega.vercel.app/builders/demo-sena-varga — demo profile
 5. https://signal-atlas-omega.vercel.app/builders/demo-tomas-brekke — demo profile
 
-Five profiles are published: one real participant and four demo profiles. The demo profiles are fictional and exist so the platform can be seen with a populated cohort while the real cohort is still onboarding. Each carries a visible "Demo profile — not a real cohort member" badge on the profile page, in the directory, and in the star map, and is flagged `isDemo` in the public API so it can be filtered out programmatically.
+Five profiles are published: one real participant and four demo profiles. The demo profiles are fictional and exist so the platform can be seen with a populated cohort while the real cohort is still onboarding. Each carries a visible "Demo profile — not a real cohort member" badge on the profile page, in the directory, and in the star map, and is flagged `isDemo` in the public API so it can be filtered out programmatically. Demo profiles will be taking out after demo.
 
 ## Vibe / positioning notes
 Signal Atlas turns a conventional cohort directory into a navigable talent universe.
